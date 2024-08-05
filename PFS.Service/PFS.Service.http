@@ -1,0 +1,6 @@
+@PFS.Service_HostAddress = http://localhost:5186
+
+GET {{PFS.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
